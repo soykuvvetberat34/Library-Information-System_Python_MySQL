@@ -2,8 +2,8 @@ This is a Library Informatino system using python and MySQL
 
 Let's check 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-/*1*/
-You can add a book at the system
+
+#1You can add a book at the system
 
 
 
